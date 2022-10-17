@@ -1,29 +1,18 @@
 #lab_pemrograman
-# DOWNLOAD APK GIT
-pertama kalian download apk git terlebih dahulu
-Cara membuat akun git
-Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
-
-image
-
-Setelah selesai mengisi user name dan user email anda klik daftar akun GitHub(nanti ada gambar hewan terbalik disitu anda cuma membenarkan posisi gambar tersebut untuk verivikasi), lalu next select a plan dan pilih yang gratisan saja 🤣 :trollface: image image
-
-Pada langka selanjutnya pilih sesuai keinginan anda atau boleh langsung diskip saja.
-
-image
-
-Kemudian anda akan dialihkan Gmail untuk memverifikasi email, klik Verivy email address
-
-image
+# pertama download apk git
+kalian download apk git terlebih dahulu,kalau sudah kita akan menggunakan git bash yaa..
+*Cara membuat akun git
+Disini kalian harus membuat akun github terlebih dahulu ,untuk membuat repository server carilah digoggle git hub kemudian daftar terlebih dahulu
 
 Membuat repositori baru
-Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
 
-image
+kalau sudah mendafta akun git hubnya kemudia kalian membuat repositori baru
+
+![Screenshot (11)](https://user-images.githubusercontent.com/115714443/196077347-aa017877-f513-43c3-811d-6297595be26f.png)
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 
-image
+![Screenshot (12)](https://user-images.githubusercontent.com/115714443/196077659-0abbc672-a91c-4806-9c48-f74f0259bf77.png)
 
 Membuat Reposiory Local
 Lalu kita buka file explorer pilih dilocal disk e (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . image
