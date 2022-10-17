@@ -1,4 +1,6 @@
-#lab_pemrograman
+* Disini saya akan menjelaskan cara pengggunaan GIT
+
+# *lab_pemrograman*
 
 # Pertama download apk git
 
