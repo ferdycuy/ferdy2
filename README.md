@@ -1,12 +1,11 @@
 #lab_pemrograman
-# pertama download apk git
+#Pertama download apk git
 kalian download apk git terlebih dahulu,kalau sudah kita akan menggunakan git bash yaa..
-*Cara membuat akun git
-Disini kalian harus membuat akun github terlebih dahulu ,untuk membuat repository server carilah digoggle git hub kemudian daftar terlebih dahulu
 
-Membuat repositori baru
+- Cara membuat akun git
 
-kalau sudah mendafta akun git hubnya kemudia kalian membuat repositori baru
+Disini kalian harus membuat akun github terlebih dahulu ,untuk membuat repository server carilah digoggle git hub kemudian daftar terlebih dahulu,
+kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/115714443/196077347-aa017877-f513-43c3-811d-6297595be26f.png)
 
