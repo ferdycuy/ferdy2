@@ -1,6 +1,6 @@
 *Disini saya akan menjelaskan cara pengggunaan GIT*
 
-# *Pertama download apk git*
+## *Pertama download apk git*
 
 kalian download apk git terlebih dahulu,kalau sudah kita akan menggunakan git bash yaa..
 
@@ -49,15 +49,20 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan username dan pasword github kita ya.
 
-- Jika ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/ferdy2/Gitlatihan1.git . Jika ingin masuk kedirectory gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah “ls -1" image
-
 ![Screenshot (7)](https://user-images.githubusercontent.com/115714443/196121644-a9691fe8-f88e-4678-8be3-0fe95b4100a6.png)
 ##### *maaf kalo contoh gambarnya berantakan*
+
+- Jika ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/ferdy2/Gitlatihan1.git . Jika ingin masuk kedirectory gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah “ls -1" image
+
+![Screenshot (8)](https://user-images.githubusercontent.com/115714443/196125526-6d0ff6fb-e76f-4d7b-ae85-8f5b76b60fe9.png)
 
 - Selesai ,Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/115714443/196122774-9d5f09a5-ec81-4c46-b363-37af8e8e8534.png)
 ##### *klik code,maka akan berubah menjadi file README,md*
+
+![Screenshot (8)](https://user-images.githubusercontent.com/115714443/196125784-2e9bd4f2-e366-4efc-a4f8-1fd7cb0d9f6a.png)
+##### *ini contoh setelah saya udah diedit*
 
 - FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
 image
