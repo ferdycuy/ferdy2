@@ -1,8 +1,6 @@
-* Disini saya akan menjelaskan cara pengggunaan GIT
+*Disini saya akan menjelaskan cara pengggunaan GIT*
 
-# *lab_pemrograman*
-
-# Pertama download apk git
+# *Pertama download apk git*
 
 kalian download apk git terlebih dahulu,kalau sudah kita akan menggunakan git bash yaa..
 
