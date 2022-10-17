@@ -20,8 +20,10 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 - kita buat file dulu contoh seperti digambar
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/115714443/196080310-8cb59fc2-2c5f-42ba-bd36-a35b77c9206b.png)
+*Buat folder baru lab pemrograman
  
 ![Screenshot (14)](https://user-images.githubusercontent.com/115714443/196080325-5d633bcc-f0a9-4f09-85f8-86b4c82d93d8.png)
+*buat file latihan 1 dari flder tadi
 
 ## Buka git bash
 
@@ -54,14 +56,15 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 - Jika ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/ferdy2/Gitlatihan1.git . Jika ingin masuk kedirectory gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah “ls -1" image
 
-![Screenshot (8)](https://user-images.githubusercontent.com/115714443/196125526-6d0ff6fb-e76f-4d7b-ae85-8f5b76b60fe9.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/115714443/196126881-643a29d3-3b39-4591-8e77-996559e6da05.png)
 
 - Selesai ,Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/115714443/196122774-9d5f09a5-ec81-4c46-b363-37af8e8e8534.png)
 ##### *klik code,maka akan berubah menjadi file README,md*
 
-![Screenshot (8)](https://user-images.githubusercontent.com/115714443/196125784-2e9bd4f2-e366-4efc-a4f8-1fd7cb0d9f6a.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/115714443/196127683-e60ee6fc-5371-40e1-a50b-9f99bdd3a0ee.png)
+
 ##### *ini contoh setelah saya udah diedit*
 
 - FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
@@ -71,4 +74,4 @@ image
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/115714443/196122988-de2c9a54-da66-4798-be2d-625843a834ac.png)
 
-    # finish,terimakasi 
+    ##finish,terimakasi 
