@@ -31,30 +31,32 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 - Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file     ini terbentuknya hidden.
 
-- Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
-
 ![Screenshot (1)](https://user-images.githubusercontent.com/115714443/196081283-f14c5a1e-c1c1-4c71-ab8d-5bb6de49ce61.png)
 #### *NB:maaf ya kalau tidak rapi contoh gambarnya*
 #### *Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit*
+
+![Screenshot (3)](https://user-images.githubusercontent.com/115714443/196131097-07c66e1d-60a1-4f6b-9c22-1f46d713da92.png)
 
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status.
 
 - Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit".(kalian akan akan disuruh masukin email dan username kalian yang
   kalian pakai untuk daftar github tadi),lalu kalian cek lagi dengan perintah commit -m “komentar commit".
 
+![Screenshot (5)](https://user-images.githubusercontent.com/115714443/196131570-86ebdf7e-5cb1-4025-9846-05becd10c7ac.png)
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/115714443/196082795-2661effb-8820-44ce-bbe2-e2cd89fc948a.png)
   ##### *file berhasil tersimpan*
   
 - Langkah berikutnya kita kembali ke website GitHub untuk melihat repository yang sudah dibuat.Di Quick Setup nanti ada url github kita, url tersebut untuk         perintah_ “git remote add origin [url] 
  
-- Sudah mengetahui url githubnya lalu ketik perintah "git remote add origin [url]",urlnya diganti dengan url github anda https://github.com/ferdy2/Gitlatihan1.git
+- Sudah mengetahui url githubnya lalu ketik perintah "git remote add origin [url]",urlnya diganti dengan url github anda https://github.com/ferdycuy/ferdy2.git
 
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan username dan pasword github kita ya.
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/115714443/196121644-a9691fe8-f88e-4678-8be3-0fe95b4100a6.png)
 ##### *maaf kalo contoh gambarnya berantakan*
 
-- Jika ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/ferdy2/Gitlatihan1.git . Jika ingin masuk kedirectory gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah “ls -1" image
+- Jika ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/ferdycuy/ferdy2.git . Jika ingin masuk kedirectory gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direktori gunakan perintah “ls -1" image
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/115714443/196126881-643a29d3-3b39-4591-8e77-996559e6da05.png)
 
@@ -65,7 +67,7 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/115714443/196127683-e60ee6fc-5371-40e1-a50b-9f99bdd3a0ee.png)
 
-##### *ini contoh setelah saya udah diedit*
+##### *ini contoh setelah saya udah edit*
 
 - Sebelumnya FILE README.md tersebut masih kosong jika ingin mengeditnya silahkan klik saja icon pensil yang berada di kanan atas.
 image
@@ -74,4 +76,4 @@ image
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/115714443/196122988-de2c9a54-da66-4798-be2d-625843a834ac.png)
 
-    ## finish,terimakasi 
+     Finish,terimakasi 
