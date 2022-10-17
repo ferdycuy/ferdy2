@@ -20,10 +20,10 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 - kita buat file dulu contoh seperti digambar
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/115714443/196080310-8cb59fc2-2c5f-42ba-bd36-a35b77c9206b.png)
-*Buat folder baru lab pemrograman
+*Buat folder baru lab pemrograman*
  
 ![Screenshot (14)](https://user-images.githubusercontent.com/115714443/196080325-5d633bcc-f0a9-4f09-85f8-86b4c82d93d8.png)
-*buat file latihan 1 dari flder tadi
+*buat file latihan 1 dari flder tadi*
 
 ## Buka git bash
 
@@ -67,7 +67,7 @@ kalau sudah mendaftar akun git hubnya kemudian kalian membuat repository baru
 
 ##### *ini contoh setelah saya udah diedit*
 
-- FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
+- Sebelumnya FILE README.md tersebut masih kosong jika ingin mengeditnya silahkan klik saja icon pensil yang berada di kanan atas.
 image
 
 - Selanjutnya klik write, jika sudah selesai klik saja commit change
