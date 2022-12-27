@@ -18,7 +18,7 @@ maf pak,jika bapak belum melihat hasil tugas saya yg ini, maaf ga sengaja kehapu
 
 ![Screenshot_20221023_160801 1](https://user-images.githubusercontent.com/115714443/197385321-0d3f2fe3-0acc-4da3-9791-059e416fa3d7.jpg)
 
-![Screenshot_20221023_160805 1](https://user-images.githubusercontent.com/115714443/197385348-692bf276-44ab-4fad-a70b-208666e29c73.jpg
+![Screenshot_20221023_160805 1](https://user-images.githubusercontent.com/115714443/197385348-692bf276-44ab-4fad-a70b-208666e29c73.jpg)
 
 ![Screenshot_20221023_160811 1](https://user-images.githubusercontent.com/115714443/197385373-82422d72-c1b1-4085-8c52-e9eca7c1f431.jpg)
 
